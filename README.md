@@ -1,8 +1,8 @@
 ### My Coding Assignments from Coursera's Machine Learning
 
-The course homepage is located [here](https://www.coursera.org/learn/machine-learning/home/welcome).
+The course homepage is located [here](https://www.coursera.org/learn/machine-learning/home/welcome). You can can view my course certificate at: https://www.coursera.org/account/accomplishments/certificate/8JMVLYPRSV55.
 
-Assignments for this course were completed in [GNU Octave](https://en.wikipedia.org/wiki/GNU_Octave), a language which is similar to Matlab.
+Assignments for this course were completed in [GNU Octave](https://en.wikipedia.org/wiki/GNU_Octave), a free alternative to Matlab.
 
 |         | Topics Covered                                                           |
 |---------|--------------------------------------------------------------------------|
